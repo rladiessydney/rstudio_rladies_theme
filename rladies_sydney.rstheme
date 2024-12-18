@@ -7,8 +7,8 @@
 }
 
 .ace_print-margin {
-  width: 2px;
-  background: #eff3f6;
+  width: 0.5px;
+  background: #562457;
 }
 
 .ace_editor {
@@ -208,7 +208,7 @@
 }
 
 .ace_comment {
-  color: #D3D3D3;
+  color: #181818;
   background-color: inherit;
 }
 
@@ -589,7 +589,7 @@ input#rstudio_command_palette_search {
 }
 
 .terminal {
-  background-color: #FFFFFF;
+  background-color: #efdff9;
   color: #181818;
   font-feature-settings: "liga" 0;
   position: relative;
