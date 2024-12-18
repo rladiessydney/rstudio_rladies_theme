@@ -2,8 +2,8 @@
 /* rs-theme-name: R-Ladies_Sydney {rsthemes} */
 /* rs-theme-is-dark: FALSE */
 .ace_gutter {
-  background: #FFFFFF;
-  color: #562457;
+  background: #562457;
+  color: #FFFFFF;
 }
 
 .ace_print-margin {
@@ -12,7 +12,7 @@
 }
 
 .ace_editor {
-  background-color: #FFFFFF;
+  background-color: #efdff9;
   color: #181818;
 }
 
